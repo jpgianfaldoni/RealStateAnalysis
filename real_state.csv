@@ -1,0 +1,331 @@
+tipo,enderecos,regioes,valores,metragem,n_quartos,n_vagas
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
+Apartamento,Rua Conselheiro João Alfredo,Mooca,320000,110,2,0
+Casa,Rua Florestópolis,Jardim Maria Estela,300000,100,2,2
+Casa,Rua José de Maio,Interlagos,2600000,450,4,5
+Apartamento,Rua Justo Azambuja,Cambuci,320000,93,2,0
+Casa,Rua José Figliolini,Vila Nilo,300000,100,2,2
+Casa,Rua Maestro Eduardo de Guarnieri,Interlagos,1700000,215,2,2
+Apartamento,Avenida Alcântara Machado,Brás,190000,70,2,0
+Apartamento,Rua Ângelo Aloísio,Guapira,300000,94,3,2
+Studio e kitnet,Rua Fernão Dias,inheiros,420000,28,1,0
+Apartamento,Rua das Savelhas,Conjunto Residencial Sitio Oratório,200000,53,2,1
+Casa,Rua Nilo Luís Mazzei,Vila Isolina Mazzei,330000,94,4,1
