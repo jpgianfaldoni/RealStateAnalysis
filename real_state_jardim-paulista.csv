@@ -1,0 +1,2311 @@
+tipo,enderecos,regioes,valores,metragem,n_quartos,n_vagas
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",900000,50,1,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",660000,57,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",320000,35,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",265000,26,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",350000,35,1,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",550000,48,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1370000,115,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",2300000,153,3,1
+Apartamento,Rua Jose Maria Lisboa,"Jardim Paulista, São Paulo",1250000,125,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",900000,50,1,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",660000,57,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",320000,35,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",265000,26,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",350000,35,1,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",550000,48,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1370000,115,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",2300000,153,3,1
+Apartamento,Rua Jose Maria Lisboa,"Jardim Paulista, São Paulo",1250000,125,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1500000,75,2,2
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,79,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,75,2,2
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",595000,63,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",810000,60,1,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1800000,136,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",680000,55,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",900000,50,1,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",660000,57,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",320000,35,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",265000,26,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",350000,35,1,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",550000,48,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1370000,115,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",2300000,153,3,1
+Apartamento,Rua Jose Maria Lisboa,"Jardim Paulista, São Paulo",1250000,125,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1500000,75,2,2
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,79,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,75,2,2
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",595000,63,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",810000,60,1,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1800000,136,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",680000,55,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,77,2,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1039000,92,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1550000,120,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,85,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",450000,40,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",550000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",980000,79,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",925000,75,3,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,158,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",960000,57,2,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",900000,50,1,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",660000,57,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",320000,35,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",265000,26,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",350000,35,1,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",550000,48,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1370000,115,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",2300000,153,3,1
+Apartamento,Rua Jose Maria Lisboa,"Jardim Paulista, São Paulo",1250000,125,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1500000,75,2,2
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,79,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,75,2,2
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",595000,63,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",810000,60,1,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1800000,136,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",680000,55,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,77,2,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1039000,92,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1550000,120,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,85,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",450000,40,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",550000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",980000,79,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",925000,75,3,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,158,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",960000,57,2,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",720000,64,1,0
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1590000,119,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",399000,31,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,70,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,110,3,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2900000,187,4,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",970000,100,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,65,1,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,175,3,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",450000,30,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",795000,45,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",900000,50,1,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",660000,57,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",320000,35,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",265000,26,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",350000,35,1,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",550000,48,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1370000,115,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",2300000,153,3,1
+Apartamento,Rua Jose Maria Lisboa,"Jardim Paulista, São Paulo",1250000,125,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1500000,75,2,2
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,79,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,75,2,2
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",595000,63,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",810000,60,1,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1800000,136,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",680000,55,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,77,2,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1039000,92,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1550000,120,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,85,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",450000,40,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",550000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",980000,79,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",925000,75,3,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,158,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",960000,57,2,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",720000,64,1,0
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1590000,119,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",399000,31,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,70,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,110,3,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2900000,187,4,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",970000,100,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,65,1,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,175,3,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",450000,30,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",795000,45,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",630000,54,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",700000,35,1,0
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1400000,110,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",800000,103,3,1
+Apartamento,Cravinhos,"Jardim Paulista, São Paulo",2150000,162,3,1
+Apartamento,Rua Capitão Pinto Ferreira,"Jardim Paulista, São Paulo",1200000,105,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1350000,117,3,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",853000,53,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1150000,97,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,99,4,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1500000,118,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",900000,50,1,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",660000,57,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",320000,35,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",265000,26,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",350000,35,1,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",550000,48,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1370000,115,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",2300000,153,3,1
+Apartamento,Rua Jose Maria Lisboa,"Jardim Paulista, São Paulo",1250000,125,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1500000,75,2,2
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,79,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,75,2,2
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",595000,63,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",810000,60,1,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1800000,136,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",680000,55,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,77,2,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1039000,92,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1550000,120,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,85,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",450000,40,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",550000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",980000,79,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",925000,75,3,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,158,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",960000,57,2,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",720000,64,1,0
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1590000,119,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",399000,31,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,70,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,110,3,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2900000,187,4,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",970000,100,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,65,1,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,175,3,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",450000,30,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",795000,45,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",630000,54,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",700000,35,1,0
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1400000,110,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",800000,103,3,1
+Apartamento,Cravinhos,"Jardim Paulista, São Paulo",2150000,162,3,1
+Apartamento,Rua Capitão Pinto Ferreira,"Jardim Paulista, São Paulo",1200000,105,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1350000,117,3,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",853000,53,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1150000,97,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,99,4,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1500000,118,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",950000,70,2,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",985000,78,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",630000,65,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",739000,70,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",290000,29,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2600000,145,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1450000,111,2,1
+Apartamento,Rua Salto,"Jardim Paulista, São Paulo",5000000,316,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1400000,100,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",900000,50,1,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",660000,57,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",320000,35,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",265000,26,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",350000,35,1,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",550000,48,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1370000,115,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",2300000,153,3,1
+Apartamento,Rua Jose Maria Lisboa,"Jardim Paulista, São Paulo",1250000,125,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1500000,75,2,2
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,79,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,75,2,2
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",595000,63,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",810000,60,1,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1800000,136,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",680000,55,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,77,2,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1039000,92,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1550000,120,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,85,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",450000,40,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",550000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",980000,79,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",925000,75,3,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,158,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",960000,57,2,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",720000,64,1,0
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1590000,119,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",399000,31,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,70,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,110,3,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2900000,187,4,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",970000,100,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,65,1,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,175,3,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",450000,30,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",795000,45,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",630000,54,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",700000,35,1,0
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1400000,110,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",800000,103,3,1
+Apartamento,Cravinhos,"Jardim Paulista, São Paulo",2150000,162,3,1
+Apartamento,Rua Capitão Pinto Ferreira,"Jardim Paulista, São Paulo",1200000,105,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1350000,117,3,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",853000,53,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1150000,97,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,99,4,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1500000,118,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",950000,70,2,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",985000,78,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",630000,65,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",739000,70,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",290000,29,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2600000,145,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1450000,111,2,1
+Apartamento,Rua Salto,"Jardim Paulista, São Paulo",5000000,316,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1400000,100,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",455000,42,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",825000,58,1,1
+Studio e kitnet,Alameda Santos,"Jardim Paulista, São Paulo",532000,38,1,0
+Studio e kitnet,Alameda Casa Branca,"Jardim Paulista, São Paulo",680000,45,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1250000,100,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1270000,127,3,1
+Studio e kitnet,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1350000,50,1,1
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1800000,156,4,1
+Apartamento,Rua Capitão Pinto Ferreira,"Jardim Paulista, São Paulo",1490000,102,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1350000,128,4,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",900000,50,1,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",660000,57,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",320000,35,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",265000,26,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",350000,35,1,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",550000,48,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1370000,115,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",2300000,153,3,1
+Apartamento,Rua Jose Maria Lisboa,"Jardim Paulista, São Paulo",1250000,125,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1500000,75,2,2
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,79,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,75,2,2
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",595000,63,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",810000,60,1,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1800000,136,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",680000,55,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,77,2,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1039000,92,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1550000,120,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,85,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",450000,40,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",550000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",980000,79,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",925000,75,3,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,158,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",960000,57,2,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",720000,64,1,0
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1590000,119,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",399000,31,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,70,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,110,3,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2900000,187,4,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",970000,100,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,65,1,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,175,3,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",450000,30,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",795000,45,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",630000,54,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",700000,35,1,0
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1400000,110,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",800000,103,3,1
+Apartamento,Cravinhos,"Jardim Paulista, São Paulo",2150000,162,3,1
+Apartamento,Rua Capitão Pinto Ferreira,"Jardim Paulista, São Paulo",1200000,105,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1350000,117,3,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",853000,53,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1150000,97,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,99,4,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1500000,118,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",950000,70,2,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",985000,78,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",630000,65,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",739000,70,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",290000,29,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2600000,145,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1450000,111,2,1
+Apartamento,Rua Salto,"Jardim Paulista, São Paulo",5000000,316,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1400000,100,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",455000,42,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",825000,58,1,1
+Studio e kitnet,Alameda Santos,"Jardim Paulista, São Paulo",532000,38,1,0
+Studio e kitnet,Alameda Casa Branca,"Jardim Paulista, São Paulo",680000,45,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1250000,100,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1270000,127,3,1
+Studio e kitnet,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1350000,50,1,1
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1800000,156,4,1
+Apartamento,Rua Capitão Pinto Ferreira,"Jardim Paulista, São Paulo",1490000,102,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1350000,128,4,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",490000,46,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1950000,135,3,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",2400000,163,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,178,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1980000,162,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1000000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1650000,129,3,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",600000,43,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1250000,104,3,1
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",2970000,172,2,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",705000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",695000,50,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",478000,40,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",395000,45,1,0
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1100000,107,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1590000,122,3,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",480000,67,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",530000,40,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",950000,112,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",640000,45,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1800000,120,3,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",585000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1650000,100,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",1385000,110,2,0
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",553500,44,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,82,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1560000,132,3,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1450000,130,3,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",2310000,166,3,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",850000,125,3,0
+Studio e kitnet,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",320000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",420000,45,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,45,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",650000,92,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",1000000,56,1,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",680000,58,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",519000,48,1,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",2100000,139,2,1
+Apartamento,Caconde,"Jardim Paulista, São Paulo",960000,96,2,0
+Casa,Travessa Leon Berry,"Jardim Paulista, São Paulo",1650000,120,3,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1350000,92,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",670000,94,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,110,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",522000,39,1,1
+Apartamento,Travessa Ouro Branco,"Jardim Paulista, São Paulo",530000,40,1,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2290000,139,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",720000,110,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1810000,150,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",750000,47,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,108,3,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2200000,158,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,50,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",473000,42,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",815000,84,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,93,2,0
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2650000,168,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",535000,35,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",560000,35,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",850000,120,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",850000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",825000,45,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2200000,109,2,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",700000,74,2,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1900000,130,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",870000,50,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",750000,111,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",750000,78,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",795000,51,1,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",750000,36,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1490000,110,3,1
+Casa em condomínio,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2320000,140,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",948000,140,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1450000,127,3,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",900000,70,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1380000,64,2,2
+Studio e kitnet,Rua Ouro Branco,"Jardim Paulista, São Paulo",470000,35,1,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",1200000,55,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",630000,41,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1600000,95,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",660000,78,2,1
+Apartamento,Rua Ouro Branco,"Jardim Paulista, São Paulo",520000,36,1,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",630000,64,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450500,62,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1300000,75,3,2
+Casa,Rua Artur Frazão,"Jardim Paulista, São Paulo",2500000,160,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1850000,113,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",4000000,128,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",690000,52,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",780000,71,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",790000,102,2,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1900000,110,2,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Presidente Prudente,"Jardim Paulista, São Paulo",1200000,90,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,46,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",699000,74,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1125000,75,3,2
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",600000,45,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1550000,127,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1100000,70,1,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",2150000,210,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,58,1,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",950000,91,2,1
+Apartamento,Rua Cravinhos,"Jardim Paulista, São Paulo",1500000,85,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",475000,62,1,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",809945,60,1,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",1200000,100,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",540000,45,1,1
+Studio e kitnet,Alameda Jaú,"Jardim Paulista, São Paulo",445000,44,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",2190000,133,2,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1080000,105,3,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1400000,135,3,1
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1190000,69,2,2
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",1600000,110,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1100000,190,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",670000,75,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",800000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1300000,110,2,1
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",900000,50,1,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",660000,57,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",320000,35,1,1
+Studio e kitnet,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",265000,26,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",350000,35,1,1
+Studio e kitnet,Alameda Franca,"Jardim Paulista, São Paulo",550000,48,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1370000,115,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",2300000,153,3,1
+Apartamento,Rua Jose Maria Lisboa,"Jardim Paulista, São Paulo",1250000,125,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,130,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1500000,75,2,2
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,79,2,0
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,75,2,2
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",800000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",780000,87,2,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",595000,63,1,0
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1980000,122,3,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",810000,60,1,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Rua Peixoto Gomide,"Jardim Paulista, São Paulo",1800000,136,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",680000,55,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,77,2,2
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1039000,92,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1550000,120,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",1000000,85,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",450000,40,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",550000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",980000,79,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",925000,75,3,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,158,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",960000,57,2,2
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",720000,64,1,0
+Apartamento,Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1590000,119,3,1
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",399000,31,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",750000,70,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1700000,110,3,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",2900000,187,4,2
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",970000,100,2,2
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",800000,65,1,2
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,175,3,1
+Studio e kitnet,Rua Guarará,"Jardim Paulista, São Paulo",450000,30,1,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",795000,45,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",630000,54,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",700000,35,1,0
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1400000,110,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",800000,103,3,1
+Apartamento,Cravinhos,"Jardim Paulista, São Paulo",2150000,162,3,1
+Apartamento,Rua Capitão Pinto Ferreira,"Jardim Paulista, São Paulo",1200000,105,2,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1350000,117,3,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",853000,53,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1150000,97,2,0
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,99,4,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",1500000,118,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",950000,70,2,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",985000,78,2,0
+Apartamento,Alameda Itu,"Jardim Paulista, São Paulo",630000,65,2,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",739000,70,2,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",650000,72,2,1
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",290000,29,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",2600000,145,3,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1050000,100,3,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",1450000,111,2,1
+Apartamento,Rua Salto,"Jardim Paulista, São Paulo",5000000,316,2,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1400000,100,2,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",450000,42,1,1
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",455000,42,1,1
+Apartamento,Lorena,"Jardim Paulista, São Paulo",825000,58,1,1
+Studio e kitnet,Alameda Santos,"Jardim Paulista, São Paulo",532000,38,1,0
+Studio e kitnet,Alameda Casa Branca,"Jardim Paulista, São Paulo",680000,45,1,1
+Apartamento,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1250000,100,2,1
+Apartamento,Rua Pamplona,"Jardim Paulista, São Paulo",1270000,127,3,1
+Studio e kitnet,Alameda Fernão Cardim,"Jardim Paulista, São Paulo",1350000,50,1,1
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",1800000,156,4,1
+Apartamento,Rua Capitão Pinto Ferreira,"Jardim Paulista, São Paulo",1490000,102,2,1
+Apartamento,Rua Caconde,"Jardim Paulista, São Paulo",1350000,128,4,1
+Apartamento,Alameda Franca,"Jardim Paulista, São Paulo",490000,46,1,1
+Apartamento,Rua Guarará,"Jardim Paulista, São Paulo",1950000,135,3,2
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",2400000,163,3,1
+Apartamento,Rua José Maria Lisboa,"Jardim Paulista, São Paulo",2300000,178,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1980000,162,3,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",870000,110,3,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1000000,50,1,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1650000,129,3,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",600000,43,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1250000,104,3,1
+Apartamento,Alameda Casa Branca,"Jardim Paulista, São Paulo",2970000,172,2,2
+Studio e kitnet,Alameda Lorena,"Jardim Paulista, São Paulo",490000,40,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",1350000,80,2,2
+Apartamento,Alameda Jaú,"Jardim Paulista, São Paulo",950000,45,1,1
+Apartamento,Avenida Brigadeiro Luís Antônio,"Jardim Paulista, São Paulo",980000,100,2,1
+Apartamento,Alameda Santos,"Jardim Paulista, São Paulo",395000,27,1,1
+Apartamento,Rua Batataes,"Jardim Paulista, São Paulo",790000,90,2,1
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",950000,49,1,1
+Apartamento,Alameda Joaquim Eugênio de Lima,"Jardim Paulista, São Paulo",4372800,145,2,2
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",1550000,100,3,2
+Apartamento,Alameda Campinas,"Jardim Paulista, São Paulo",1300000,130,3,1
+Apartamento,Alameda Lorena,"Jardim Paulista, São Paulo",800000,58,2,1

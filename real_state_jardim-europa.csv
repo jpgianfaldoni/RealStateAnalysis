@@ -1,0 +1,2311 @@
+tipo,enderecos,regioes,valores,metragem,n_quartos,n_vagas
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",4500000,215,3,2
+Apartamento,Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,90,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2850000,178,3,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3200000,180,3,2
+Apartamento,Rua Campos Bicudo,"Itaim Bibi, São Paulo",690000,62,1,1
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",1600000,95,2,0
+Apartamento,Avenida São Gabriel,"Jardim América, São Paulo",680000,80,2,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",820000,74,2,0
+Apartamento,Avenida Cidade Jardim,"Jardim Paulistano, São Paulo",635000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",3000000,147,3,1
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",4500000,215,3,2
+Apartamento,Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,90,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2850000,178,3,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3200000,180,3,2
+Apartamento,Rua Campos Bicudo,"Itaim Bibi, São Paulo",690000,62,1,1
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",1600000,95,2,0
+Apartamento,Avenida São Gabriel,"Jardim América, São Paulo",680000,80,2,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",820000,74,2,0
+Apartamento,Avenida Cidade Jardim,"Jardim Paulistano, São Paulo",635000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",3000000,147,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2750000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,110,3,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2800000,172,4,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1600000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,98,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1300000,98,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1800000,150,4,1
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",1280000,76,1,2
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",665000,40,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4400000,301,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",570000,62,2,0
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",4500000,215,3,2
+Apartamento,Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,90,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2850000,178,3,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3200000,180,3,2
+Apartamento,Rua Campos Bicudo,"Itaim Bibi, São Paulo",690000,62,1,1
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",1600000,95,2,0
+Apartamento,Avenida São Gabriel,"Jardim América, São Paulo",680000,80,2,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",820000,74,2,0
+Apartamento,Avenida Cidade Jardim,"Jardim Paulistano, São Paulo",635000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",3000000,147,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2750000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,110,3,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2800000,172,4,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1600000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,98,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1300000,98,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1800000,150,4,1
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",1280000,76,1,2
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",665000,40,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4400000,301,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",570000,62,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,90,2,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",2700000,184,4,2
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",3500000,230,4,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2400000,175,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3750000,210,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1090000,86,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3100000,214,1,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2500000,140,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2440000,189,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2200000,187,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",1200000,135,2,1
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",4500000,215,3,2
+Apartamento,Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,90,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2850000,178,3,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3200000,180,3,2
+Apartamento,Rua Campos Bicudo,"Itaim Bibi, São Paulo",690000,62,1,1
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",1600000,95,2,0
+Apartamento,Avenida São Gabriel,"Jardim América, São Paulo",680000,80,2,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",820000,74,2,0
+Apartamento,Avenida Cidade Jardim,"Jardim Paulistano, São Paulo",635000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",3000000,147,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2750000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,110,3,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2800000,172,4,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1600000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,98,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1300000,98,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1800000,150,4,1
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",1280000,76,1,2
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",665000,40,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4400000,301,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",570000,62,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,90,2,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",2700000,184,4,2
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",3500000,230,4,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2400000,175,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3750000,210,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1090000,86,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3100000,214,1,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2500000,140,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2440000,189,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2200000,187,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",1200000,135,2,1
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2500000,141,3,2
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1500000,110,3,1
+Apartamento,Rua Professor Tamandaré Tolêdo,"Itaim Bibi, São Paulo",6500000,360,4,2
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",2060000,100,1,1
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2000000,110,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2190000,157,3,2
+Apartamento,Avenida Santo Amaro,"Vila Nova Conceição, São Paulo",954000,130,2,1
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2150000,163,2,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",700000,40,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,80,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3450000,170,4,3
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",4500000,215,3,2
+Apartamento,Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,90,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2850000,178,3,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3200000,180,3,2
+Apartamento,Rua Campos Bicudo,"Itaim Bibi, São Paulo",690000,62,1,1
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",1600000,95,2,0
+Apartamento,Avenida São Gabriel,"Jardim América, São Paulo",680000,80,2,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",820000,74,2,0
+Apartamento,Avenida Cidade Jardim,"Jardim Paulistano, São Paulo",635000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",3000000,147,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2750000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,110,3,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2800000,172,4,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1600000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,98,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1300000,98,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1800000,150,4,1
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",1280000,76,1,2
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",665000,40,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4400000,301,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",570000,62,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,90,2,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",2700000,184,4,2
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",3500000,230,4,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2400000,175,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3750000,210,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1090000,86,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3100000,214,1,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2500000,140,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2440000,189,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2200000,187,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",1200000,135,2,1
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2500000,141,3,2
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1500000,110,3,1
+Apartamento,Rua Professor Tamandaré Tolêdo,"Itaim Bibi, São Paulo",6500000,360,4,2
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",2060000,100,1,1
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2000000,110,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2190000,157,3,2
+Apartamento,Avenida Santo Amaro,"Vila Nova Conceição, São Paulo",954000,130,2,1
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2150000,163,2,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",700000,40,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,80,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3450000,170,4,3
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",1590000,125,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1275000,117,3,1
+Apartamento,Avenida Brigadeiro Faria Lima,"Jardim Paulistano, São Paulo",750000,43,1,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1600000,96,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1590000,130,3,2
+Studio e kitnet,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,80,1,0
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1545000,98,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1350000,110,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2400000,187,3,2
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2250000,130,2,1
+Apartamento,Rua Brasília,"Itaim Bibi, São Paulo",2200000,118,2,3
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",4500000,215,3,2
+Apartamento,Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,90,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2850000,178,3,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3200000,180,3,2
+Apartamento,Rua Campos Bicudo,"Itaim Bibi, São Paulo",690000,62,1,1
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",1600000,95,2,0
+Apartamento,Avenida São Gabriel,"Jardim América, São Paulo",680000,80,2,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",820000,74,2,0
+Apartamento,Avenida Cidade Jardim,"Jardim Paulistano, São Paulo",635000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",3000000,147,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2750000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,110,3,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2800000,172,4,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1600000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,98,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1300000,98,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1800000,150,4,1
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",1280000,76,1,2
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",665000,40,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4400000,301,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",570000,62,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,90,2,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",2700000,184,4,2
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",3500000,230,4,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2400000,175,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3750000,210,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1090000,86,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3100000,214,1,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2500000,140,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2440000,189,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2200000,187,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",1200000,135,2,1
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2500000,141,3,2
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1500000,110,3,1
+Apartamento,Rua Professor Tamandaré Tolêdo,"Itaim Bibi, São Paulo",6500000,360,4,2
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",2060000,100,1,1
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2000000,110,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2190000,157,3,2
+Apartamento,Avenida Santo Amaro,"Vila Nova Conceição, São Paulo",954000,130,2,1
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2150000,163,2,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",700000,40,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,80,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3450000,170,4,3
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",1590000,125,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1275000,117,3,1
+Apartamento,Avenida Brigadeiro Faria Lima,"Jardim Paulistano, São Paulo",750000,43,1,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1600000,96,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1590000,130,3,2
+Studio e kitnet,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,80,1,0
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1545000,98,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1350000,110,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2400000,187,3,2
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2250000,130,2,1
+Apartamento,Rua Brasília,"Itaim Bibi, São Paulo",2200000,118,2,3
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1280000,95,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1270000,116,3,1
+Apartamento,Rua Romilda Margarida Gabriel,"Itaim Bibi, São Paulo",2000000,134,2,1
+Apartamento,Rua Urimonduba,"Itaim Bibi, São Paulo",630000,58,1,0
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2120000,190,3,2
+Apartamento,Jesuíno Arruda,"Itaim Bibi, São Paulo",1180000,100,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2190000,176,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2570000,165,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1590000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1350000,120,3,1
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1290000,107,3,1
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",4500000,215,3,2
+Apartamento,Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,90,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2850000,178,3,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3200000,180,3,2
+Apartamento,Rua Campos Bicudo,"Itaim Bibi, São Paulo",690000,62,1,1
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",1600000,95,2,0
+Apartamento,Avenida São Gabriel,"Jardim América, São Paulo",680000,80,2,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",820000,74,2,0
+Apartamento,Avenida Cidade Jardim,"Jardim Paulistano, São Paulo",635000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",3000000,147,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2750000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,110,3,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2800000,172,4,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1600000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,98,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1300000,98,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1800000,150,4,1
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",1280000,76,1,2
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",665000,40,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4400000,301,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",570000,62,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,90,2,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",2700000,184,4,2
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",3500000,230,4,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2400000,175,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3750000,210,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1090000,86,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3100000,214,1,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2500000,140,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2440000,189,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2200000,187,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",1200000,135,2,1
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2500000,141,3,2
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1500000,110,3,1
+Apartamento,Rua Professor Tamandaré Tolêdo,"Itaim Bibi, São Paulo",6500000,360,4,2
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",2060000,100,1,1
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2000000,110,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2190000,157,3,2
+Apartamento,Avenida Santo Amaro,"Vila Nova Conceição, São Paulo",954000,130,2,1
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2150000,163,2,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",700000,40,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,80,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3450000,170,4,3
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",1590000,125,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1275000,117,3,1
+Apartamento,Avenida Brigadeiro Faria Lima,"Jardim Paulistano, São Paulo",750000,43,1,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1600000,96,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1590000,130,3,2
+Studio e kitnet,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,80,1,0
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1545000,98,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1350000,110,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2400000,187,3,2
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2250000,130,2,1
+Apartamento,Rua Brasília,"Itaim Bibi, São Paulo",2200000,118,2,3
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1280000,95,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1270000,116,3,1
+Apartamento,Rua Romilda Margarida Gabriel,"Itaim Bibi, São Paulo",2000000,134,2,1
+Apartamento,Rua Urimonduba,"Itaim Bibi, São Paulo",630000,58,1,0
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2120000,190,3,2
+Apartamento,Jesuíno Arruda,"Itaim Bibi, São Paulo",1180000,100,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2190000,176,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2570000,165,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1590000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1350000,120,3,1
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1290000,107,3,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1600000,151,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2680000,112,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1400000,112,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1500000,105,1,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1100000,90,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1350000,98,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1290000,130,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,112,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2270000,176,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2100000,153,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",4500000,215,3,2
+Apartamento,Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,90,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2850000,178,3,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3200000,180,3,2
+Apartamento,Rua Campos Bicudo,"Itaim Bibi, São Paulo",690000,62,1,1
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",1600000,95,2,0
+Apartamento,Avenida São Gabriel,"Jardim América, São Paulo",680000,80,2,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",820000,74,2,0
+Apartamento,Avenida Cidade Jardim,"Jardim Paulistano, São Paulo",635000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",3000000,147,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2750000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,110,3,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2800000,172,4,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1600000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,98,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1300000,98,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1800000,150,4,1
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",1280000,76,1,2
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",665000,40,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4400000,301,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",570000,62,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,90,2,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",2700000,184,4,2
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",3500000,230,4,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2400000,175,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3750000,210,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1090000,86,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3100000,214,1,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2500000,140,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2440000,189,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2200000,187,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",1200000,135,2,1
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2500000,141,3,2
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1500000,110,3,1
+Apartamento,Rua Professor Tamandaré Tolêdo,"Itaim Bibi, São Paulo",6500000,360,4,2
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",2060000,100,1,1
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2000000,110,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2190000,157,3,2
+Apartamento,Avenida Santo Amaro,"Vila Nova Conceição, São Paulo",954000,130,2,1
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2150000,163,2,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",700000,40,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,80,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3450000,170,4,3
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",1590000,125,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1275000,117,3,1
+Apartamento,Avenida Brigadeiro Faria Lima,"Jardim Paulistano, São Paulo",750000,43,1,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1600000,96,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1590000,130,3,2
+Studio e kitnet,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,80,1,0
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1545000,98,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1350000,110,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2400000,187,3,2
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2250000,130,2,1
+Apartamento,Rua Brasília,"Itaim Bibi, São Paulo",2200000,118,2,3
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1280000,95,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1270000,116,3,1
+Apartamento,Rua Romilda Margarida Gabriel,"Itaim Bibi, São Paulo",2000000,134,2,1
+Apartamento,Rua Urimonduba,"Itaim Bibi, São Paulo",630000,58,1,0
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2120000,190,3,2
+Apartamento,Jesuíno Arruda,"Itaim Bibi, São Paulo",1180000,100,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2190000,176,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2570000,165,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1590000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1350000,120,3,1
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1290000,107,3,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1600000,151,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2680000,112,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1400000,112,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1500000,105,1,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1100000,90,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1350000,98,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1290000,130,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,112,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2270000,176,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2100000,153,3,2
+Apartamento,Avenida Brigadeiro Faria Lima,"Jardim Paulistano, São Paulo",2400000,150,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",1800000,120,3,1
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1980000,144,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2150000,160,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1450000,80,1,2
+Apartamento,Rua Urimonduba,"Itaim Bibi, São Paulo",711000,75,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1250000,120,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",2300000,132,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1700000,88,1,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2330000,200,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1150000,111,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",700000,50,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,124,2,1
+Apartamento,Rua Jacurici,"Jardim Europa, São Paulo",2250000,160,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Europa, São Paulo",2500000,160,2,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2400000,145,3,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3800000,196,3,3
+Apartamento,Doutor Mário Ferraz,"Jardim Europa, São Paulo",4240000,215,2,1
+Studio e kitnet,Rua Campos Bicudo,"Jardim Europa, São Paulo",650000,50,1,1
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",2250000,150,3,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",2990000,143,2,2
+Apartamento,Rua Embaixador Raul Fernandes,"Jardim Europa, São Paulo",2500000,100,2,2
+Casa,Rua Turquia,"Jardim Europa, São Paulo",7500000,408,3,2
+Casa,Avenida Reboucas,"Jardim Europa, São Paulo",9500000,0,0,15
+Casa,Rua Polônia,"Jardim Europa, São Paulo",14300000,440,4,6
+Casa,Rua Áustria,"Jardim Europa, São Paulo",5900000,420,3,3
+Casa,Avenida Europa,"Jardim Europa, São Paulo",9510000,424,4,10
+Apartamento,Rua Peruíbe,"Jardim Europa, São Paulo",1560000,95,3,0
+Apartamento,Praça das Nações Unidas,"Jardim Europa, São Paulo",17800000,703,4,4
+Casa,Rua Alemanha,"Jardim Europa, São Paulo",5000000,300,5,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",3700000,210,3,2
+Casa,Rua Iramaia,"Jardim Europa, São Paulo",15000000,365,4,2
+Apartamento,Rua Jerônimo da Veiga,"Jardim Europa, São Paulo",4000000,220,3,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",1900000,143,3,2
+Casa,Rua Grécia,"Jardim Europa, São Paulo",3900000,180,4,2
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",11500000,291,4,4
+Apartamento,Rua Campos Bicudo,"Jardim Europa, São Paulo",2750000,143,2,2
+Apartamento,Rua André Fernandes,"Jardim Europa, São Paulo",3400000,180,2,2
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",2270000,170,3,1
+Apartamento,Rua Sabuji,"Jardim Europa, São Paulo",9400000,320,4,4
+Apartamento,Rua Tucumã,"Jardim Europa, São Paulo",10000000,285,3,4
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",1980000,150,3,0
+Casa,Rua Dona Elisa Pereira de Barros,"Jardim Europa, São Paulo",6200000,400,1,8
+Apartamento,Praça Buritama,"Jardim Europa, São Paulo",3100000,150,2,1
+Apartamento,Cássio da Costa Vidigal,"Jardim Europa, São Paulo",4500000,200,3,2
+Apartamento,Rua Angelina Maffei Vita,"Jardim Europa, São Paulo",7500000,260,4,2
+Apartamento,Franz Schubert,"Jardim Europa, São Paulo",3800000,120,1,2
+Apartamento,Rua Manuel Guedes,"Jardim Europa, São Paulo",1650000,132,3,1
+Studio e kitnet,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1900000,49,1,1
+Apartamento,Rua Doutor Mário Ferraz,"Jardim Europa, São Paulo",1400000,50,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",810000,45,1,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",620000,42,1,1
+Studio e kitnet,Rua Manuel Guedes,"Jardim Europa, São Paulo",580000,26,1,1
+Apartamento,Rua Professor Vital Palma E Silva,"Jardim Europa, São Paulo",1600000,88,2,1
+Apartamento,Rua Amauri,"Jardim Europa, São Paulo",1260000,65,2,1
+Apartamento,Pedroso Alvarenga,"Itaim Bibi, São Paulo",920000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",950000,105,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1300000,105,2,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",650000,27620,1,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",800000,100,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",1100000,143,3,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",760000,110,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2300000,160,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2350000,130,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,105,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2900000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",3250000,190,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3250000,226,4,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2900000,220,4,3
+Apartamento,Avenida São Gabriel,"Itaim Bibi, São Paulo",1000000,100,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,158,3,0
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2495000,198,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1000000,102,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,94,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1150000,154,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",880000,95,2,0
+Apartamento,Artur de Azevedo,"Pinheiros, São Paulo",750000,106,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3600000,180,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",4000000,218,4,3
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1000000,70,2,0
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4800000,340,3,2
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1190000,100,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1100000,125,3,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,90,2,0
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",796000,100,2,0
+Apartamento,Rua Tapinas,"Itaim Bibi, São Paulo",2200000,160,2,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",1150000,104,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",960000,67,2,0
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",890000,67,2,0
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",630000,81,3,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",950000,96,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3700000,236,3,4
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,115,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1200000,110,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1120000,83,3,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1900000,109,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",3500000,230,3,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1200000,100,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,250,4,3
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2100000,150,3,1
+Apartamento,Avenida Rebouças,"Pinheiros, São Paulo",950000,99,2,0
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",3240000,185,4,3
+Apartamento,Rua Jorge Coelho,"Jardim Paulistano, São Paulo",2400000,107,2,2
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1650000,89,1,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1620000,105,1,2
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",650000,45,1,1
+Apartamento,Av. Cidade Jardim,"Jardim Paulista, São Paulo",650000,45,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2300000,173,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",4300000,221,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2590000,143,2,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3500000,210,3,3
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1820000,160,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,100,1,2
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1715000,126,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3000000,178,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",900000,75,1,0
+Apartamento,Rua João Cachoeira,"Itaim Bibi, São Paulo",1350000,90,2,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1200000,86,2,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",3498000,210,3,3
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",3600000,180,3,3
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",485000,46,1,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",800000,86,2,0
+Apartamento,Rua João Cachoeira,"Vila Nova Conceição, São Paulo",1200000,90,2,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",1890000,169,3,1
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1200000,115,3,0
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",3800000,162,3,0
+Apartamento,Rua Maestro Elias Lobo,"Jardim Paulista, São Paulo",700000,80,2,0
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",4500000,215,3,2
+Apartamento,Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,90,2,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2850000,178,3,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",3200000,180,3,2
+Apartamento,Rua Campos Bicudo,"Itaim Bibi, São Paulo",690000,62,1,1
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",1600000,95,2,0
+Apartamento,Avenida São Gabriel,"Jardim América, São Paulo",680000,80,2,0
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",820000,74,2,0
+Apartamento,Avenida Cidade Jardim,"Jardim Paulistano, São Paulo",635000,45,1,1
+Apartamento,Avenida Nove de Julho,"Jardim Paulista, São Paulo",3000000,147,3,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2750000,178,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1600000,110,3,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2800000,172,4,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1600000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1400000,98,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1300000,98,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1800000,150,4,1
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",1280000,76,1,2
+Apartamento,Rua Urussuí,"Itaim Bibi, São Paulo",665000,40,1,1
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",4400000,301,3,2
+Apartamento,Rua Joaquim Floriano,"Itaim Bibi, São Paulo",570000,62,2,0
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,90,2,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",2700000,184,4,2
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",3500000,230,4,2
+Apartamento,Rua Professor Artur Ramos,"Jardim Paulistano, São Paulo",2400000,175,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3750000,210,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1090000,86,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",3100000,214,1,2
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2500000,140,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2440000,189,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2200000,187,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",1200000,135,2,1
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2500000,141,3,2
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1500000,110,3,1
+Apartamento,Rua Professor Tamandaré Tolêdo,"Itaim Bibi, São Paulo",6500000,360,4,2
+Apartamento,Rua Jacurici,"Itaim Bibi, São Paulo",2060000,100,1,1
+Apartamento,Rua Manuel Guedes,"Itaim Bibi, São Paulo",2000000,110,3,2
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",2190000,157,3,2
+Apartamento,Avenida Santo Amaro,"Vila Nova Conceição, São Paulo",954000,130,2,1
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2150000,163,2,1
+Apartamento,Avenida Cidade Jardim,"Itaim Bibi, São Paulo",700000,40,1,1
+Apartamento,Rua da Mata,"Itaim Bibi, São Paulo",1500000,80,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",3450000,170,4,3
+Apartamento,Rua Antônio Felício,"Itaim Bibi, São Paulo",1590000,125,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1275000,117,3,1
+Apartamento,Avenida Brigadeiro Faria Lima,"Jardim Paulistano, São Paulo",750000,43,1,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1600000,96,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1590000,130,3,2
+Studio e kitnet,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1400000,80,1,0
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1545000,98,2,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1350000,110,2,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2400000,187,3,2
+Apartamento,Rua Japão,"Itaim Bibi, São Paulo",2250000,130,2,1
+Apartamento,Rua Brasília,"Itaim Bibi, São Paulo",2200000,118,2,3
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1280000,95,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1270000,116,3,1
+Apartamento,Rua Romilda Margarida Gabriel,"Itaim Bibi, São Paulo",2000000,134,2,1
+Apartamento,Rua Urimonduba,"Itaim Bibi, São Paulo",630000,58,1,0
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2120000,190,3,2
+Apartamento,Jesuíno Arruda,"Itaim Bibi, São Paulo",1180000,100,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2190000,176,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2570000,165,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",1590000,100,2,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1350000,120,3,1
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",1290000,107,3,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1600000,151,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",2680000,112,2,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1400000,112,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1500000,105,1,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1100000,90,2,1
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1350000,98,3,1
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1290000,130,3,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1250000,112,3,2
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1300000,90,2,1
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2270000,176,3,2
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2100000,153,3,2
+Apartamento,Avenida Brigadeiro Faria Lima,"Jardim Paulistano, São Paulo",2400000,150,3,1
+Apartamento,Rua Professor Carlos de Carvalho,"Itaim Bibi, São Paulo",1800000,120,3,1
+Apartamento,Rua Viradouro,"Itaim Bibi, São Paulo",1980000,144,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",2150000,160,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1450000,80,1,2
+Apartamento,Rua Urimonduba,"Itaim Bibi, São Paulo",711000,75,2,0
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1250000,120,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",2300000,132,3,2
+Apartamento,Rua Jesuíno Arruda,"Itaim Bibi, São Paulo",1700000,88,1,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",2330000,200,3,2
+Apartamento,Rua Pedroso Alvarenga,"Itaim Bibi, São Paulo",1150000,111,3,2
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",1800000,68,2,1
+Apartamento,Avenida Pedroso de Morais,"Pinheiros, São Paulo",1150000,160,3,1
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",630000,60,1,0
+Apartamento,Rua Itacema,"Itaim Bibi, São Paulo",1750000,126,3,2
+Apartamento,Rua Tabapuã,"Itaim Bibi, São Paulo",1100000,112,3,1
+Apartamento,Avenida São Gabriel,"Jardim Paulista, São Paulo",1300000,155,3,1
+Apartamento,Rua dos Pinheiros,"Pinheiros, São Paulo",710000,84,3,0
+Apartamento,Rua Doutor Renato Paes de Barros,"Itaim Bibi, São Paulo",2850000,187,3,1
+Apartamento,Rua Bandeira Paulista,"Itaim Bibi, São Paulo",1250000,119,3,1
+Apartamento,Rua Iguatemi,"Itaim Bibi, São Paulo",750000,86,2,0
+Apartamento,Rua Iara,"Itaim Bibi, São Paulo",3800000,146,3,3
